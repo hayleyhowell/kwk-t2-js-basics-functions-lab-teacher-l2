@@ -1,2 +1,4 @@
 // Code your solution in this file
-function dis
+function distanceFromHqInBlocks () {
+  
+}
